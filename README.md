@@ -1,4 +1,4 @@
-# dropout
+# Dropout
 Imagine you're in a classroom where students are working together to solve a problem. Each student represents a neuron in a neural network.
 
 Now, dropout is like randomly asking some students to leave the classroom during each lesson. This forces the remaining students to work harder and not rely too much on any one person. Over time, the group becomes more robust and better at solving problems, even if some students are missing.
